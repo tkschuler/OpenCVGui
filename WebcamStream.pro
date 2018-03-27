@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = opencv_cpp_show_webcam_stream_on_Qt_GUI
+TARGET = WebcamStream
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
